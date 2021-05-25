@@ -18,3 +18,8 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::view('/', 'landingpage')->name('landingpage');
+Route::view('/perusahaan', 'perusahaan')->name('perusahaan');
+Route::view('/produk', 'produk')->name('produk');
+Route::view('/investor', 'investor')->name('investor');
+Route::view('/berita', 'berita')->name('berita');
+Route::view('/hubungikami', 'hubungikami')->name('hubungikami');

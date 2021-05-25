@@ -11,22 +11,22 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white">
   <ul class="navbar-nav mr-5" style="margin-left:15%;">
     <li class="nav-item active">
-      <a class="nav-link" href="#">Beranda<span class="sr-only">(current)</span></a>
+      <a class="nav-link" href="{{url('/')}}">Beranda<span class="sr-only">(current)</span></a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Perusahaan</a>
+      <a class="nav-link" href="{{url('/perusahaan')}}">Perusahaan</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Produk</a>
+      <a class="nav-link" href="{{url('/produk')}}">Produk</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Investor</a>
+      <a class="nav-link" href="{{url('/investor')}}">Investor</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Berita</a>
+      <a class="nav-link" href="{{url('/berita')}}">Berita</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Hubungi Kami</a>
+      <a class="nav-link" href="{{url('/hubungikami')}}">Hubungi Kami</a>
     </li>
   </ul>
   <form class="form-inline my-2 my-lg-0">

@@ -1,0 +1,55 @@
+.hubungikami {
+    font-family: roboto;
+}
+.hubungikami .jumbotron {
+    padding-top: 15%;
+    padding-bottom: 15%;
+    text-align: center;
+    background-image: url(img/hubungikami.png) !important;
+    color:#ffffff;
+}
+.hubungikami .jumbotron h1 {
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+}
+.hubungikami .jumbotron p {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+}
+.hubungikami .konten {
+    background-color: #3fa768;
+    margin-top: -3%;
+    color: #ffffff;
+}
+.hubungikami .konten h3 {
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 3%;
+    padding-top: 3%;
+}
+.hubungikami .konten p {
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.hubungikami .konten hr {
+    height:1px;
+    color:black;
+    background-color:black
+}

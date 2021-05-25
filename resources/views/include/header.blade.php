@@ -19,3 +19,4 @@
     <link rel="stylesheet" href="{{asset('assets/produk.css')}}">
     <link rel="stylesheet" href="{{asset('assets/investor.css')}}">
     <link rel="stylesheet" href="{{asset('assets/berita.css')}}">
+    <link rel="stylesheet" href="{{asset('assets/hubungikami.css')}}">

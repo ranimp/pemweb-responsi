@@ -65,7 +65,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 Repository ini berisikan file untuk responsi pada Praktikum Pemrograman Web & Mobile I di Universitas Palangka Raya.  Pembuatan web ini menggunakan framework Laravel.
 Adapun nama anggota kelompok :
-Putri Saptia Puspita (11191060)
-Rani Meliyana Putri ( 11191062)
-Satria Shano (11191068)
-Yumna Nafisah (K1218077)
+- Putri Saptia Puspita (11191060)
+- Rani Meliyana Putri ( 11191062)
+- Satria Shano (11191068)
+- Yumna Nafisah (K1218077)

@@ -17,3 +17,4 @@
     <link rel="stylesheet" href="{{asset('assets/landingpage.css')}}">
     <link rel="stylesheet" href="{{asset('assets/perusahaan.css')}}">
     <link rel="stylesheet" href="{{asset('assets/produk.css')}}">
+    <link rel="stylesheet" href="{{asset('assets/investor.css')}}">

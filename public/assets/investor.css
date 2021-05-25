@@ -1,0 +1,57 @@
+.investor {
+    font-family: roboto;
+}
+.investor .jumbotron {
+    padding-top: 15%;
+    padding-bottom: 15%;
+    text-align: center;
+    background-image: url(img/investor.png) !important;
+    color:#ffffff;
+}
+.investor .jumbotron h1 {
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+}
+.investor .jumbotron p {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+}
+.investor .pilihan {
+    background-color: #35E370;
+    margin-top: -5%;
+}
+.investor .pilihan td {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.investor .pilihan-card {
+    background-color: #3fa768;
+    margin-top: -3%;
+}
+.investor .pilihan-card button {
+    color: black;
+    background-color: #80DEA0;
+    width: 200px;
+    height: 200px;
+    margin: 5% 5% 5% 8%;
+    border-radius: 20px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+}
+.investor .pilihan-card button img {
+    width: 100px;
+}

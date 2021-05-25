@@ -1,0 +1,58 @@
+.berita {
+    font-family: roboto;
+}
+.berita .jumbotron {
+    padding-top: 15%;
+    padding-bottom: 15%;
+    text-align: center;
+    background-image: url(img/berita.png) !important;
+    color:#ffffff;
+}
+.berita .jumbotron h1 {
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+}
+.berita .jumbotron p {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+}
+.berita .pilihan {
+    background-color: #35E370;
+    margin-top: -5%;
+}
+.berita .pilihan td {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.berita .pilihan-card {
+    background-color: #3fa768;
+    margin-top: -3%;
+}
+.berita .pilihan-card button {
+    color:#ffffff;
+    background-color: #80DEA0;
+    width: 90%;
+    height: 150px;
+    margin: auto 5% auto 5%;
+    border-radius: 20px;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    text-align: left;
+}
+.berita .pilihan-card button img {
+    width: 100px;
+}
